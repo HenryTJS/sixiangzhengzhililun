@@ -222,4 +222,10 @@ __marimo__/
 *.aux
 *.synctex*
 *.toc
+*.tex
+*.eps
+*.docx
 __pycache__/
+Pictures/
+Latex.pdf
+Latex速查手册.pdf
